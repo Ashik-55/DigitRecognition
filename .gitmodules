@@ -1,0 +1,3 @@
+[submodule "DigitRecognition"]
+	path = DigitRecognition
+	url = https://github.com/ZOROVIKKY/DigitRecognition.git
